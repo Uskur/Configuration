@@ -1,0 +1,2 @@
+# Configuration
+CakePHP Configuration Plugin
