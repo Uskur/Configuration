@@ -1,5 +1,5 @@
 # Configuration
-CakePHP Configuration Plugin
+CakePHP Configuration Plugin for CakePHP 2.x
 
 ## Create Schema
 ```console
