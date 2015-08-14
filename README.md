@@ -3,7 +3,7 @@ CakePHP Configuration Plugin for CakePHP 2.x
 
 ## Create Schema
 ```console
-.../Console/cake schema create
+.../Console/cake schema create -p Configuration
 ```
 
 ## Usage
